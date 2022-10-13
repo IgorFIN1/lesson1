@@ -1,0 +1,13 @@
+body {
+  background-color: #ccc;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+.card {
+  width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 5px:#ccc;
+  border-radius:10px;
+}
